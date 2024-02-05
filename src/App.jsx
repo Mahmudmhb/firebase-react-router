@@ -6,7 +6,7 @@ function App() {
     <>
       <div>
         <Home></Home>
-        <Login></Login>
+        {/* <Login></Login> */}
       </div>
     </>
   );
